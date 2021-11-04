@@ -5,6 +5,9 @@
     "editor.quickSuggestions": false,
     "editor.suggestSelection": "first",
     "editor.trimAutoWhitespace": false,
+    "files.associations": {
+        "Makefile.*" : "makefile",
+    },
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.enablePersistentSessions": false,
     "terminal.integrated.cursorStyle": "line",
