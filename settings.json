@@ -9,6 +9,6 @@
         "Makefile.*" : "makefile",
     },
     "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.enablePersistentSessions": false,
     "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.enablePersistentSessions": false,
 }
