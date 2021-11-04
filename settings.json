@@ -11,4 +11,5 @@
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.enablePersistentSessions": false,
+    "workbench.startupEditor": "none",
 }
